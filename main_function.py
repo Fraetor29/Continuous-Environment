@@ -58,5 +58,6 @@ we can store 'avg_rewards' in some variable and plot them"""
 # plt.plot(agent2_average, label = "agent2")
 # plt.plot(agent3_average, label = "agent3")
 # plt.title("Compare Agents")
+# plt.xlabel('Episode')
+# plt.ylabel('Reward')
 # plt.legend(loc="upper left")
-
