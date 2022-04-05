@@ -17,4 +17,5 @@ Agent2_DDPG (hidden_l1 =350, hidden_l1 =350, actor_lr =1e-4, critic_lr =1e-3, ga
 Agent3_TD3 (hidden_l1 =350, hidden_l1 =350, actor_lr =1e-4, critic_lr =1e-3, gamma =0.99, tau =1e-2, memory_size =50000,  num_of_hd_layers =2, popicy_delay =2)                 
 
 The 'train()' method can return the average rewards and we can store it in some variables. Thus we can train multiple Agents with different parameters and compare their evolutions.                     
-![bla4](https://user-images.githubusercontent.com/102504166/161748228-a82ecd02-7d63-4479-ac60-542ba8b5a7f6.png)
+![bla5](https://user-images.githubusercontent.com/102504166/161749600-a7cfb487-a259-47f9-b7c6-6c6e4748e634.png)
+
